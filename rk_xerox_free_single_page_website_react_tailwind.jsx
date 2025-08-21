@@ -165,13 +165,13 @@ export default function RKXeroxSite() {
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-4">
                   <a
-                    href="tel:+910000000000" // TODO: replace with your number
+                    href="tel:+9825157077" // TODO: replace with your number
                     className="px-4 py-3 rounded-2xl bg-blue-600 text-white font-semibold text-center shadow hover:bg-blue-700"
                   >
                     Call Now
                   </a>
                   <a
-                    href="https://wa.me/910000000000" // TODO: replace with your WhatsApp number (country code first)
+                    href="https://wa.me/9825157077" // TODO: replace with your WhatsApp number (country code first)
                     className="px-4 py-3 rounded-2xl bg-white border font-semibold text-center hover:bg-gray-50"
                     target="_blank"
                   >
@@ -212,7 +212,7 @@ export default function RKXeroxSite() {
 
       {/* Floating WhatsApp */}
       <a
-        href="https://wa.me/910000000000" // TODO: replace with your number
+        href="https://wa.me/9825157077" // TODO: replace with your number
         className="fixed bottom-6 right-6 rounded-full shadow-lg hover:shadow-xl px-5 py-3 bg-green-500 text-white font-bold"
         target="_blank"
       >
